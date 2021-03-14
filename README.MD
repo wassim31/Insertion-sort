@@ -5,3 +5,5 @@ According to https://en.wikipedia.org : Insertion sort is a simple sorting algor
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)
 
 Runtime complexity Analysis by me using a paper (classical way :) ) :
+
+![alt text](https://github.com/wassim31/Insertion-sort/blob/master/analysis.jpg?raw=true)
